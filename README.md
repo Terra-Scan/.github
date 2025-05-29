@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Dapur-Nusantara-Bangkit-2024-Batch-2/.github/blob/main/profile/assets/logodarnus%201.png" alt="Logo TerraScan" style="width: 40%;">
+  <img src="https://github.com/Terra-Scan/.github/blob/main/assets/terrascan-logo.png" alt="Logo TerraScan" style="width: 40%;">
   <p>Scan your Soil for Agricultural Success</p>
 </div>
 
@@ -30,11 +30,10 @@ This system is intended for farmers and agricultural enthusiasts who want to und
 # Project Documentation
 |   Learning Paths   |                                Link                                |
 | :----------------: | :----------------------------------------------------------------: |
-| Machine Learning  | [Github](https://github.com/rezkyrevansyah/terra-scan) |
-|  Data Science  | [Github](https://github.com/rezkyrevansyah/terra-scan)  |
+| Machine Learning  | [Github](https://github.com/Terra-Scan) |
 
 # Project Documents
-- Project Plan : [here](https://docs.google.com/document/d/1ovYRkL2Bs03VHfwmxqueTz2HmTsnz_SQEJc4XopDPCQ/edit?usp=sharing)
+- Project Plan : [here](https://docs.google.com/document/d/1MCYu9HrD_i9L738pOgVzo8nNSDJPDnic9v80S1BDOWE/edit?usp=sharing)
 
 # Project Features
 - **Soil Type Classification**: The system classifies soil into different types (fertile or not) based on an image input.

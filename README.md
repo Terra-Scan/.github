@@ -22,12 +22,6 @@ This system is intended for farmers and agricultural enthusiasts who want to und
 
 </div>
 
-
-# Application Mockup
-<div align="center">
-  <img src="https://github.com/Dapur-Nusantara-Bangkit-2024-Batch-2/.github/blob/main/profile/assets/mockup.png" alt="TerraScan Mockup" style="width: 70%;">
-</div>
-
 # Project Documentation
 |   Learning Paths   |                                Link                                |
 | :----------------: | :----------------------------------------------------------------: |

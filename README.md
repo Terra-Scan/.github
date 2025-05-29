@@ -13,14 +13,15 @@ This system is intended for farmers and agricultural enthusiasts who want to und
 # Team Members - TerraScan
 <div align="center">
 
-| Bangkit ID       |           Name            |       Role       | LinkedIn Profile | Github | Status |
-|:----------------:|---------------------------|:----------------:|:-----------------------------------------:|:---------------------------------|
-| A006YBM263       | M. Rezky Revansyah Suprihono | Team Leader     | [LinkedIn](https://www.linkedin.com/in/rezkyrevansyah/) | [@rezkyrevansyah](https://github.com/rezkyrevansyah) | Active |
-| A229XBM406       | Rahayu Nur Rahmawati       | Data Scientist   | [LinkedIn](https://www.linkedin.com/in/rahmayunur/) | [@rahmayunur](https://github.com/rahmayunur) | Active |
-| A163YAF089       | Azmi Irfala                | Machine Learning Engineer | [LinkedIn](https://www.linkedin.com/in/azmiirfala/) | [@azmiirfala](https://github.com/azmiirfala) | Active |
-| A006YBF044       | Aksal Abitahta Turipan     | Machine Learning Engineer | [LinkedIn](https://www.linkedin.com/in/aksalabitahta/) | [@aksalabitahta](https://github.com/aksalabitahta) | Active |
+| Bangkit ID       | Name                          | Role                   | LinkedIn Profile                                   | Github                                | Status |
+|:-----------------:|-------------------------------|------------------------|---------------------------------------------------|---------------------------------------|--------|
+| A006YBM263       | M. Rezky Revansyah Suprihono   | Team Leader            | [LinkedIn](https://www.linkedin.com/in/rezkyrevansyah/) | [@rezkyrevansyah](https://github.com/rezkyrevansyah) | Active |
+| A229XBM406       | Rahayu Nur Rahmawati           | Data Scientist         | [LinkedIn](https://www.linkedin.com/in/rahmayunur/) | [@rahmayunur](https://github.com/rahmayunur) | Active |
+| A163YAF089       | Azmi Irfala                    | Machine Learning Engineer | [LinkedIn](https://www.linkedin.com/in/azmiirfala/) | [@azmiirfala](https://github.com/azmiirfala) | Active |
+| A006YBF044       | Aksal Abitahta Turipan         | Machine Learning Engineer | [LinkedIn](https://www.linkedin.com/in/aksalabitahta/) | [@aksalabitahta](https://github.com/aksalabitahta) | Active |
 
 </div>
+
 
 # Application Mockup
 <div align="center">

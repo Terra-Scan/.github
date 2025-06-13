@@ -16,7 +16,7 @@ This system is intended for farmers and agricultural enthusiasts who want to und
 | Bangkit ID       | Name                          | Role                   | LinkedIn Profile                                   | Status |
 |:-----------------:|-------------------------------|------------------------|---------------------------------------------------|--------|
 | A006YBM263       | M. Rezky Revansyah Suprihono   | Team Leader            | [LinkedIn](https://www.linkedin.com/in/rezkyrevansyah/) | Active |
-| A229XBM406       | Rahayu Nur Rahmawati           | Data Scientist         | [LinkedIn](https://www.linkedin.com/in/rahmayunur/) | Active |
+| A229XBM406       | Rahayu Nur Rahmawati           | Machine Learning Engineer | [LinkedIn](https://www.linkedin.com/in/rahmayunur/) | Active |
 | A163YAF089       | Azmi Irfala                    | Machine Learning Engineer | [LinkedIn](https://www.linkedin.com/in/azmiirfala/) | Active |
 | A006YBF044       | Aksal Abitahta Turipan         | Machine Learning Engineer | [LinkedIn](https://www.linkedin.com/in/aksalabitahta/) | Active |
 
